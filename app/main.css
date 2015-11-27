@@ -12,7 +12,7 @@ body {
   margin: 0.5em;
   padding-left: 0;
 
-  max-width: 10em;
+  max-width: 8em;
   list-style: none;
 }
 
@@ -59,7 +59,7 @@ body {
   border: 1px solid #ccc;
   border-radius: 0.5em;
 
-  min-width: 10em;
+  min-width: 8em;
   vertical-align: top;
 }
 
