@@ -1,3 +1,3 @@
-# kanban_app
+# kanban_app (react tutorial)
 
-Based on Survive.js tutorial at http://survivejs.com/webpack_react/introduction/
+More practive with react. Based on Survive.js tutorial at http://survivejs.com/webpack_react/introduction/
